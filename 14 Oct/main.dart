@@ -1,16 +1,16 @@
 // SIMULACRO EXAMEN PRACTICO
 
 void main(List<String> args) {
-  // vehiculo versa = new vehiculo(4, 'Nissan', 'Verde', '2022');
-  // // versa.llantas = 4;
-  // // versa.color = 'Verde';
-  // // versa.modelo = '2022';
-  // // versa.marca = 'Nissan';
+  // vehiculo XTZ_125 = new vehiculo(4, 'Yamaha', 'Roja', '2012');
+  // // XTZ_125.llantas = 2;
+  // // XTZ_125.color = 'Toja';
+  // // XTZ_125.modelo = '2012';
+  // // XTZ_125.marca = 'Yamaha';
 
-  // versa.imprimircaracteristicas();
-  // versa.arrancar();
-  // versa.correr();
-  // versa.frenar();
+  // XTZ_125.imprimircaracteristicas();
+  // XTZ_125.arrancar();
+  // XTZ_125.correr();
+  // XTZ_125.frenar();
 
   // print('');
 
